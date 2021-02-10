@@ -15,7 +15,8 @@ I also enjoy watching animes & playing guitar
 <a href="https://ansible.com/" target="_blank"><img src="icons/ansible.png" width="45" height="45" />
 <a href="https://docker.com/" target="_blank"><img src="icons/docker.png" width="45" height="45" />
 <a href="https://jenkins.com/" target="_blank"><img src="icons/jenkins.png" width="45" height="45" />
-<a href="https://python.com/" target="_blank"><img src="icons/python.png" width="45" height="45" />
+<a href="https://python.com/" target="_blank"><img src="icons/python.png" width="45" height="45" /></a>
+
 
 
 
